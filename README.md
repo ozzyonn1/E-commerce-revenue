@@ -68,7 +68,8 @@ The top of the dashboard includes key performance indicators:
 ### Visualizations
 
 The dashboard contains the following visual blocks:
-![image](https://github.com/user-attachments/assets/42539830-9b90-49bc-adbd-b423e6d26caa)
+![image](https://github.com/user-attachments/assets/57233a49-4b7a-48d5-b521-1bfa09c1e057)
+
 
 - **Monthly Revenue Dynamics**  
   A line chart showing revenue trends by cohort month.
